@@ -6,6 +6,9 @@ DOSTool is a controlled **network stress and resilience testing repository** des
 This project focuses on **defensive validation**, **SOC readiness**, and **infrastructure hardening** through simulated high-load and abnormal traffic conditions.
 
 ---
+//Installation process dpkg 
+//After installation write in root terminal 
+dostools
 
 ## Intended Use Cases
 
