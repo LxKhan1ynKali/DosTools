@@ -90,3 +90,15 @@ If you do not understand a tool — **do not execute it**.
 
 > **Skill without discipline is a liability.**  
 > Operate responsibly.
+
+## ⚠️ Source Code Notice (C Language)
+
+This repository contains **original C source code written solely by KhaninKali**.  
+The design, logic, and implementation are **entirely self-developed**.
+
+No part of this code was copied, generated, or derived from third-party sources.  
+Any attempt to claim authorship or redistribution as original work is invalid.
+
+The source is released **only for ethical security research and analysis**.
+
+---
